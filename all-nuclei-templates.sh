@@ -3,7 +3,6 @@
 # Define the list of GitHub repository URLs
 repositories=(
     https://github.com/projectdiscovery/nuclei-templates
-    https://github.com/0x727/ObserverWard_0x727
     https://github.com/0xAwali/Virtual-Host
     https://github.com/0xPugazh/my-nuclei-templates
     https://github.com/0xmaximus/final_freaking_nuclei_templates
